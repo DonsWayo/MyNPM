@@ -89,6 +89,8 @@
     "webpack-merge": "4.2.1"
   },
   "dependencies": {
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/icons": "^4.5.1",
     "@types/redux-logger": "3.0.7",
     "fork-ts-checker-webpack-plugin": "1.5.0",
     "react": "16.9.0",
